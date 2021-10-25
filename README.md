@@ -1,4 +1,4 @@
-# Array-Manipulation
+# #Array-Manipulation
 ## About this Project
 ### This project is about array manipulation in which various functions are used to manipulate an array given by the user.
 #### Various functions include-
